@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.4 — official Glitchout-Co app icon
+
+- Replaced the old Py home-screen icon with the supplied Glitchout-Co emblem, retaining the original artwork and motto in optimised PNG renditions.
+- Added a dedicated 180px Apple touch icon, 192px and 512px web app icons, and a browser favicon.
+- Versioned icon filenames and updated the offline cache. Existing dictionary, puzzle content, application logic and progress keys unchanged.
+
 ## 0.3.3 — extended glitch animation
 
 - Replaced the 220 ms button pulse with a one-second stepped digital distortion, featuring displaced horizontal bands, stronger chromatic separation and a final fade.

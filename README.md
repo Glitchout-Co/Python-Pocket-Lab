@@ -2,7 +2,7 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.3.3 — extended Glitchout distortion**
+**Version 0.3.4 — official app icon**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
@@ -26,7 +26,7 @@ Open `index.html` in a desktop browser for the dictionary. For reliable service 
 2. Under Build and deployment select Deploy from a branch.
 3. Select `Master` and `/ (root)`, then Save.
 4. Open the published URL reported by GitHub.
-5. On iPhone, use Safari > Share > Add to Home Screen; enable Open as Web App if offered. On Android use Chrome's install/add to home screen option.
+5. On iPhone, use Safari > Share > Add to Home Screen; enable Open as Web App if offered. If an existing home-screen installation retains an older icon, iOS may require reinstalling the shortcut; avoid clearing website data if you want to preserve locally saved progress. On Android use Chrome's install/add to home screen option.
 
 The dictionary, bookmarks, progress and non-execution puzzles work offline once the service worker has cached the hosted files. Online execution uses Pyodide (Python 3.14), not the selected reference version. Python 3.15-only syntax is reference-only; 3.15 material may change before or between releases. Internet access is needed to fetch the runtime, and offline runtime caching is not guaranteed. The worker has a timeout and does not support interactive stdin or desktop GUI packages. Tests are illustrative, not exhaustive; optimisation tests usually check behaviour rather than complexity. Progress is saved locally when browser storage is available. Never enter secrets or run untrusted code.
 
