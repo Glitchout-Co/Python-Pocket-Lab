@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.2 — Glitchout interaction feedback
+
+- Added a 220 ms cyan/magenta RGB-split effect on button and expandable-card activation, including dynamically generated controls.
+- Feedback works through mouse, touch and keyboard click activation without delaying the underlying action; disabled controls and reduced-motion preferences are respected.
+- Updated offline cache version. No changes to dictionary entries, puzzle data, code runner or saved progress keys.
+
 ## 0.3.1 — official organisation logo
 
 - Replaced the generic code-bracket emblem with the supplied Glitchout-Co logo, resized for the header without redesigning the original artwork.
