@@ -2,7 +2,7 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.2 — development prototype**
+**Version 0.3 — Glitchout-Co visual refresh**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
@@ -13,6 +13,7 @@ A mobile-friendly static web app for learning Python at your own pace. No accoun
 - 21 puzzles (20 in Python 3.13 mode), across debugging, building functions, project challenges, output prediction, missing code, optimisation and explanations.
 - Mixed beginner, intermediate and advanced difficulty; filter by topic, project and puzzle type or choose a random challenge.
 - Local bookmarks and progress, optional code runner, hints and reference solutions.
+- Glitchout-Co charcoal/blue design, system/dark/light theme selection, responsive navigation and learning overview.
 
 ## Run locally
 
