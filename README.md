@@ -2,7 +2,7 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.3.2 — Glitchout-Co interaction feedback**
+**Version 0.3.3 — extended Glitchout distortion**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
@@ -14,7 +14,7 @@ A mobile-friendly static web app for learning Python at your own pace. No accoun
 - Mixed beginner, intermediate and advanced difficulty; filter by topic, project and puzzle type or choose a random challenge.
 - Local bookmarks and progress, optional code runner, hints and reference solutions.
 - Glitchout-Co charcoal/blue design, system/dark/light theme selection, responsive navigation and learning overview.
-- Brief cyan/magenta glitch feedback on button and expandable-card activation; respects system reduced-motion settings.
+- One-second stepped cyan/magenta distortion with displaced horizontal fragments on button and expandable-card activation; respects system reduced-motion settings.
 
 ## Run locally
 

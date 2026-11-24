@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.3 — extended glitch animation
+
+- Replaced the 220 ms button pulse with a one-second stepped digital distortion, featuring displaced horizontal bands, stronger chromatic separation and a final fade.
+- Underlying actions remain immediate; existing keyboard, touch, mouse and reduced-motion handling is unchanged.
+- Updated offline cache; dictionary, puzzles and application logic unchanged.
+
 ## 0.3.2 — Glitchout interaction feedback
 
 - Added a 220 ms cyan/magenta RGB-split effect on button and expandable-card activation, including dynamically generated controls.
