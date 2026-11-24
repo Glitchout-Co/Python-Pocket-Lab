@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.0 — programming vocabulary expansion
+
+- Added 46 entries covering standard-library functions and modules, methods, built-ins, common short names and programming abbreviations.
+- Display full meanings (e.g. sqrt = square root, kwargs = keyword arguments) in dictionary cards; search by abbreviated or full names, prioritising exact matches.
+- Expanded entry-type filters; preserved all existing entry names, puzzles and progress storage.
+- Updated the offline cache and documentation.
+
 ## 0.3.4 — official Glitchout-Co app icon
 
 - Replaced the old Py home-screen icon with the supplied Glitchout-Co emblem, retaining the original artwork and motto in optimised PNG renditions.

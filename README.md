@@ -2,13 +2,13 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.3.4 — official app icon**
+**Version 0.4.0 — expanded programming vocabulary**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
 ## Features
 
-- 59 searchable dictionary entries: keywords, soft keywords, built-ins and other concepts.
+- 105 searchable dictionary entries: keywords, soft keywords, built-ins, standard-library modules and functions, methods, naming conventions, abbreviations and other concepts. Search by shorthand or full meaning.
 - Python 3.13 and 3.15 reference modes and comparison.
 - 21 puzzles (20 in Python 3.13 mode), across debugging, building functions, project challenges, output prediction, missing code, optimisation and explanations.
 - Mixed beginner, intermediate and advanced difficulty; filter by topic, project and puzzle type or choose a random challenge.
