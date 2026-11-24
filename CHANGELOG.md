@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.1 — official organisation logo
+
+- Replaced the generic code-bracket emblem with the supplied Glitchout-Co logo, resized for the header without redesigning the original artwork.
+- Added restrained cyan and magenta header accents; retained the Pocket Lab app icon and existing interface.
+- Cached the local logo for offline use. No changes to learning content, application logic or local progress storage.
+
 ## 0.3 — Glitchout-Co visual refresh
 
 - Charcoal and electric-blue visual identity with violet accents and an original code-bracket brand mark.

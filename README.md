@@ -2,7 +2,7 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.3 — Glitchout-Co visual refresh**
+**Version 0.3.1 — official Glitchout-Co branding**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
