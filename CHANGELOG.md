@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.1 — interconnected Quick Define
+
+- Added 53 foundational concepts; 158 dictionary entries total.
+- Underlined links in definitions, analogies and notes; related terms under code examples.
+- Nested quick definitions with Back and Close; original dictionary state retained, selected reference version respected.
+- Existing puzzles and saved progress preserved; offline cache updated.
+
 ## 0.4.0 — programming vocabulary expansion
 
 - Added 46 entries covering standard-library functions and modules, methods, built-ins, common short names and programming abbreviations.
