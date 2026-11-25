@@ -2,7 +2,7 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.6.0 — Explanation style**
+**Version 0.6.1 — Manual refresh**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
@@ -19,6 +19,8 @@ A mobile-friendly static web app for learning Python at your own pace. No accoun
 - Local bookmarks and progress, optional code runner, hints and reference solutions.
 - Glitchout-Co charcoal/blue design, system/dark/light theme selection, responsive navigation and learning overview.
 - One-second stepped cyan/magenta distortion with displaced horizontal fragments on button and expandable-card activation; respects system reduced-motion settings.
+
+- Tap the Glitchout-Co header emblem to refresh and request the latest published app directly. Offline fallback retains the cached copy; saved progress and preferences are not cleared. Unfinished edits may require confirmation before refreshing.
 
 ## Run locally
 

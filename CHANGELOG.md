@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.1 — Manual refresh
+
+- Header emblem now acts as an accessible refresh button with a visible hint and status message.
+- Manual navigation requests a fresh network copy with a one-use URL marker; the service worker falls back to cached HTML if the network fails and checks for worker updates.
+- Blocks refresh during execution, warns about unfinished code or puzzle answers and preserves local progress/preferences. Existing learning data unchanged.
+- Updated offline cache.
+
 ## 0.6.0 — Explanation style
 
 - Added Plain English alternatives for all 158 dictionary definitions and all 18 troubleshooting guides (meaning, cause and diagnostic advice).
