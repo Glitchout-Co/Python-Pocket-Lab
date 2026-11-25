@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 — Troubleshooting lab
+
+- Fourth navigation section with a six-step debugging method and annotated traceback.
+- 18 searchable guides for syntax, exceptions and logical errors, broken examples, optional fixes and expected output.
+- Integrated Quick Define and Code lab, including exception detection from runner output and confirmation before replacing current code.
+- Environment and browser runtime troubleshooting. Updated offline cache; dictionary, puzzles and progress unchanged.
+
 ## 0.4.1 — interconnected Quick Define
 
 - Added 53 foundational concepts; 158 dictionary entries total.
