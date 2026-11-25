@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.1 — Everyday computer comparisons
+
+- Added familiar computer analogies to 67 dictionary entries and 10 troubleshooting guides, without replacing project-based examples.
+- Added side-by-side File Explorer and Python indentation illustration (stacked on narrow screens).
+- Explain where each analogy ends; comparisons are searchable and appear in Quick Define. Existing dictionary terms, puzzles and storage keys preserved.
+- Updated offline cache.
+
 ## 0.5.0 — Troubleshooting lab
 
 - Fourth navigation section with a six-step debugging method and annotated traceback.

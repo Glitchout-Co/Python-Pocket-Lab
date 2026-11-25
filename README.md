@@ -2,7 +2,7 @@
 
 Interactive Python dictionary and practical learning application by Glitchout-Co.
 
-**Version 0.5.0 — Troubleshooting lab**
+**Version 0.5.1 — Everyday computer comparisons**
 
 A mobile-friendly static web app for learning Python at your own pace. No account or backend required.
 
@@ -11,6 +11,7 @@ A mobile-friendly static web app for learning Python at your own pace. No accoun
 - 158 searchable dictionary entries: keywords, soft keywords, built-ins, standard-library modules and functions, methods, naming conventions, abbreviations and other concepts. Search by shorthand or full meaning.
 - Quick Define: tap curated underlined terms in definitions, analogies and usage notes; related example terms open a nested definition panel with Back and Close. Works offline and retains dictionary state.
 - Troubleshooting lab: six-step debugging method, annotated traceback, 18 searchable error and logic guides with broken/fixed snippets and expected output, direct lookup from Code lab, environment checks and Quick Define.
+- Everyday computer comparisons in 67 reference entries and 10 troubleshooting guides, with limits of each analogy and a File Explorer/Python indentation comparison. Also available in Quick Define and search.
 - Python 3.13 and 3.15 reference modes and comparison.
 - 21 puzzles (20 in Python 3.13 mode), across debugging, building functions, project challenges, output prediction, missing code, optimisation and explanations.
 - Mixed beginner, intermediate and advanced difficulty; filter by topic, project and puzzle type or choose a random challenge.
