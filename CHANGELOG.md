@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.0 — Explanation style
+
+- Added Plain English alternatives for all 158 dictionary definitions and all 18 troubleshooting guides (meaning, cause and diagnostic advice).
+- Added persistent Explanation style selectors in the main settings and Quick Define; default Plain English, technical mode always available.
+- Both wordings searchable; switching updates text in place without collapsing open entries or resetting filters. Original definitions, code examples, analogies, puzzles and storage preserved.
+- Updated offline cache.
+
 ## 0.5.1 — Everyday computer comparisons
 
 - Added familiar computer analogies to 67 dictionary entries and 10 troubleshooting guides, without replacing project-based examples.
